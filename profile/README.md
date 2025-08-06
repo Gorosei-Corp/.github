@@ -53,7 +53,7 @@ Pour contribuer de manière organisée :
 ### 🔄 Pull Request
 1. **Poussez votre branche** sur GitHub :
    ```bash
-   git push origin feature/nom-de-votre-branche
+   git push -u origin feature/nom-de-votre-branche
    ```
 
 2. **Créez une Pull Request** via l'interface GitHub :
