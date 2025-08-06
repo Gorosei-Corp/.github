@@ -16,7 +16,7 @@ Voici les projets qu'on développe ensemble :
 | Pseudo | Rôle | Skills |
 |--------|------|--------|
 | @Ascyam | Full Stack Developer | React, Tailwind, Python, Flutter/Dart, Bash, C |
-| @Marchant Lucas | (tbd)  | (tbd) |
+| @MarchantLucas | (tbd)  | (tbd) |
 | @Gabriel Depaillat | (tbd) | (tbd) |
 | @Hugo Valayer | (tbd) | (tbd) |
 | @LucasBondietti | (tbd) | (tbd) |
