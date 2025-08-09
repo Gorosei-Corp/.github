@@ -8,6 +8,7 @@ On est une bande de devs passionnés, bricoleurs du clavier, et un peu trop fans
 Voici les projets qu'on développe ensemble :
 
 - [until_death](https://github.com/Gorosei-Corp/until_death) – Une app qui te donne le temps restant dans ta vie
+- [pedantix](https://github.com/Gorosei-Corp/pedantix) – Un jeu dans lequel il faut deviner des pages wikipedia
 
 > 👉 Clique sur les projets pour en savoir plus !
 
